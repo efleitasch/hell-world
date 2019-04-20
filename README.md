@@ -1,2 +1,3 @@
-# hell-world
-First repository with github
+# hello-world
+First repository using github to create new projects
+
